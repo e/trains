@@ -1,0 +1,104 @@
+[
+    {
+        "planned_departure_time": "2021-02-17T20:24:00+0100",
+        "direction": "Dordrecht",
+        "platform": "3",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:25:00+0100",
+        "direction": "Amersfoort Schothorst",
+        "platform": "5",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:33:00+0100",
+        "direction": "Groningen",
+        "platform": "9",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:38:00+0100",
+        "direction": "Amsterdam Centraal",
+        "platform": "8",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:43:00+0100",
+        "direction": "Tiel",
+        "platform": "6",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:47:00+0100",
+        "direction": "Amsterdam Centraal",
+        "platform": "9",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:47:00+0100",
+        "direction": "Eindhoven Centraal",
+        "platform": "1",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:54:00+0100",
+        "direction": "Dordrecht",
+        "platform": "3",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T20:55:00+0100",
+        "direction": "Apeldoorn",
+        "platform": "5",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:03:00+0100",
+        "direction": "Leeuwarden",
+        "platform": "10",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:08:00+0100",
+        "direction": "Amsterdam Centraal",
+        "platform": "8",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:13:00+0100",
+        "direction": "Tiel",
+        "platform": "6",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:17:00+0100",
+        "direction": "Amsterdam Centraal",
+        "platform": "10",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:17:00+0100",
+        "direction": "Eindhoven Centraal",
+        "platform": "2",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:24:00+0100",
+        "direction": "Dordrecht",
+        "platform": "3",
+        "train_type": "Sprinter"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:25:00+0100",
+        "direction": "Amersfoort Schothorst",
+        "platform": "5",
+        "train_type": "Intercity"
+    },
+    {
+        "planned_departure_time": "2021-02-17T21:33:00+0100",
+        "direction": "Groningen",
+        "platform": "10",
+        "train_type": "Intercity"
+    }
+]

@@ -1,0 +1,2294 @@
+[
+    {
+        "name": "G\u00fcnzburg",
+        "code": "MGZB"
+    },
+    {
+        "name": "Augsburg Hbf",
+        "code": "MA"
+    },
+    {
+        "name": "Berlin Ostbahnhof",
+        "code": "BHF"
+    },
+    {
+        "name": "Berlin-Spandau",
+        "code": "BSPD"
+    },
+    {
+        "name": "Berlin Gesundbrunnen",
+        "code": "GSB"
+    },
+    {
+        "name": "Schwerte (Ruhr)",
+        "code": "ESRT"
+    },
+    {
+        "name": "Hagen Hbf",
+        "code": "HAGEN"
+    },
+    {
+        "name": "Wuppertal-Vohwinkel",
+        "code": "WUPPV"
+    },
+    {
+        "name": "D\u00fcsseldorf Hbf",
+        "code": "DUSSEL"
+    },
+    {
+        "name": "Ennepetal",
+        "code": "EENP"
+    },
+    {
+        "name": "Schwelm",
+        "code": "KSWE"
+    },
+    {
+        "name": "Wuppertal Oberbarmen",
+        "code": "KWO"
+    },
+    {
+        "name": "Wuppertal-Barmen",
+        "code": "KWBA"
+    },
+    {
+        "name": "Wuppertal Hbf",
+        "code": "WUPPH"
+    },
+    {
+        "name": "Hamm (Westf.)",
+        "code": "HAMM"
+    },
+    {
+        "name": "Dortmund Hbf",
+        "code": "EDO"
+    },
+    {
+        "name": "L\u00fcnen Hbf",
+        "code": "ELUE"
+    },
+    {
+        "name": "Preussen",
+        "code": "EPRN"
+    },
+    {
+        "name": "Dortmund Derne",
+        "code": "EDD"
+    },
+    {
+        "name": "Dortmund Kirchderne",
+        "code": "EDKD"
+    },
+    {
+        "name": "Oberhausen Hbf",
+        "code": "OBERH"
+    },
+    {
+        "name": "Oberhausen-Sterkrade",
+        "code": "OBERHS"
+    },
+    {
+        "name": "Wesel",
+        "code": "WESEL"
+    },
+    {
+        "name": "Emmerich",
+        "code": "EM"
+    },
+    {
+        "name": "Duisburg Hbf",
+        "code": "DUISB"
+    },
+    {
+        "name": "Unna",
+        "code": "EUN"
+    },
+    {
+        "name": "Holzwickede",
+        "code": "EHZW"
+    },
+    {
+        "name": "B\u00f6nen",
+        "code": "EBEO"
+    },
+    {
+        "name": "Frankfurt (M) Hbf",
+        "code": "FFFM"
+    },
+    {
+        "name": "Wolfsburg Hbf",
+        "code": "HWOB"
+    },
+    {
+        "name": "Hannover Hbf",
+        "code": "HANN"
+    },
+    {
+        "name": "Minden (Westf)",
+        "code": "MINDEN"
+    },
+    {
+        "name": "Bad Oeynhausen",
+        "code": "OEYNH"
+    },
+    {
+        "name": "Bielefeld Hbf",
+        "code": "BIELEF"
+    },
+    {
+        "name": "Mannheim Hbf",
+        "code": "MANNHE"
+    },
+    {
+        "name": "Karlsruhe Hbf",
+        "code": "KARLSR"
+    },
+    {
+        "name": "Offenburg",
+        "code": "RO"
+    },
+    {
+        "name": "Freiburg (Breisgau) Hbf",
+        "code": "RF"
+    },
+    {
+        "name": "Basel Bad Bf",
+        "code": "BASELB"
+    },
+    {
+        "name": "Viersen",
+        "code": "VIERS"
+    },
+    {
+        "name": "D\u00fclken",
+        "code": "KDUL"
+    },
+    {
+        "name": "Boisheim",
+        "code": "KBOI"
+    },
+    {
+        "name": "Breyell",
+        "code": "KBRY"
+    },
+    {
+        "name": "Kaldenkirchen",
+        "code": "KN"
+    },
+    {
+        "name": "Neuss Hbf",
+        "code": "NEUSS"
+    },
+    {
+        "name": "M\u00f6nchengladbach Hbf",
+        "code": "MCGB"
+    },
+    {
+        "name": "Herzogenrath",
+        "code": "HZ"
+    },
+    {
+        "name": "Aachen West",
+        "code": "AW"
+    },
+    {
+        "name": "Aachen Hbf",
+        "code": "AHBF"
+    },
+    {
+        "name": "K\u00f6ln Hbf",
+        "code": "KOLN"
+    },
+    {
+        "name": "Bonn Hbf",
+        "code": "BONN"
+    },
+    {
+        "name": "K\u00f6ln Messe/Deutz",
+        "code": "KKD"
+    },
+    {
+        "name": "Siegburg/Bonn",
+        "code": "KSB"
+    },
+    {
+        "name": "Koblenz Hbf",
+        "code": "KKO"
+    },
+    {
+        "name": "Mainz Hbf",
+        "code": "FMZ"
+    },
+    {
+        "name": "Rosenheim",
+        "code": "ROSENH"
+    },
+    {
+        "name": "M\u00fcnchen Hbf",
+        "code": "MUNCHH"
+    },
+    {
+        "name": "D\u00fclmen",
+        "code": "EDULH"
+    },
+    {
+        "name": "M\u00fcnster (Westf) Hbf",
+        "code": "MUNST"
+    },
+    {
+        "name": "Osnabr\u00fcck Hbf",
+        "code": "OSNH"
+    },
+    {
+        "name": "Rheine",
+        "code": "RHEINE"
+    },
+    {
+        "name": "Leer (Ostfriesl)",
+        "code": "LEER"
+    },
+    {
+        "name": "Bork (Westf)",
+        "code": "EBOK"
+    },
+    {
+        "name": "Selm",
+        "code": "ESEM"
+    },
+    {
+        "name": "L\u00fcdinghausen",
+        "code": "ELDH"
+    },
+    {
+        "name": "Lette (Kr Coesfeld)",
+        "code": "ELET"
+    },
+    {
+        "name": "Coesfeld (Westf)",
+        "code": "ECMF"
+    },
+    {
+        "name": "Selm-Beifang",
+        "code": "ESEB"
+    },
+    {
+        "name": "Rosendahl-Holtwick",
+        "code": "EHW"
+    },
+    {
+        "name": "Legden",
+        "code": "ELGD"
+    },
+    {
+        "name": "Ahaus",
+        "code": "EAHS"
+    },
+    {
+        "name": "Epe (Westf)",
+        "code": "EEPE"
+    },
+    {
+        "name": "Gronau (Westf.)",
+        "code": "G"
+    },
+    {
+        "name": "Steinfurt-Burgsteinfurt",
+        "code": "EBFT"
+    },
+    {
+        "name": "M\u00fcnster-H\u00e4ger",
+        "code": "ENBE"
+    },
+    {
+        "name": "Altenberge",
+        "code": "EABG"
+    },
+    {
+        "name": "Nordwalde",
+        "code": "ENOW"
+    },
+    {
+        "name": "Steinfurt-Borghorst",
+        "code": "EBGO"
+    },
+    {
+        "name": "Metelen Land",
+        "code": "EMTE"
+    },
+    {
+        "name": "Ochtrup",
+        "code": "EOP"
+    },
+    {
+        "name": "Bad Bentheim",
+        "code": "BH"
+    },
+    {
+        "name": "B\u00fcnde (Westf)",
+        "code": "BUENDE"
+    },
+    {
+        "name": "Weener",
+        "code": "WR"
+    },
+    {
+        "name": "M\u00fcnster (W) Zentrum Nord",
+        "code": "ENHF"
+    },
+    {
+        "name": "Stendal",
+        "code": "LS"
+    },
+    {
+        "name": "Regensburg Hbf",
+        "code": "REGENB"
+    },
+    {
+        "name": "Passau Hbf",
+        "code": "PASS"
+    },
+    {
+        "name": "Stuttgart Hbf",
+        "code": "TS"
+    },
+    {
+        "name": "Plochingen",
+        "code": "TP"
+    },
+    {
+        "name": "G\u00f6ppingen",
+        "code": "TGO"
+    },
+    {
+        "name": "Ulm Hbf",
+        "code": "TU"
+    },
+    {
+        "name": "Limburg S\u00fcd",
+        "code": "FLB"
+    },
+    {
+        "name": "Elten",
+        "code": "EL"
+    },
+    {
+        "name": "D\u00fcsseldorf Flughafen",
+        "code": "KDFFH"
+    },
+    {
+        "name": "Frankfurt Flughafen Fernb",
+        "code": "FNAF"
+    },
+    {
+        "name": "Berlin Hbf",
+        "code": "BERHBL"
+    },
+    {
+        "name": "Steinfurt-Grottenkamp",
+        "code": "EGRK"
+    },
+    {
+        "name": "Brussel-Noord",
+        "code": "BRUSN"
+    },
+    {
+        "name": "Brussel-Centraal",
+        "code": "BRUSC"
+    },
+    {
+        "name": "Brussel-Zuid/Midi",
+        "code": "BRUSZ"
+    },
+    {
+        "name": "Brussels Airport-Zaventem",
+        "code": "FBNL"
+    },
+    {
+        "name": "Antwerpen-Centraal",
+        "code": "ATW"
+    },
+    {
+        "name": "Antwerpen-Luchtbal",
+        "code": "ATWLB"
+    },
+    {
+        "name": "Ekeren",
+        "code": "LKR"
+    },
+    {
+        "name": "Antwerpen-Noorderdokken",
+        "code": "ANDD"
+    },
+    {
+        "name": "Noorderkempen",
+        "code": "NDKP"
+    },
+    {
+        "name": "Antwerpen-Berchem",
+        "code": "BERCH"
+    },
+    {
+        "name": "Antwerpen-Zuid",
+        "code": "FNZD"
+    },
+    {
+        "name": "Essen (B)",
+        "code": "ESN"
+    },
+    {
+        "name": "Wildert",
+        "code": "GWD"
+    },
+    {
+        "name": "Kalmthout",
+        "code": "FKTH"
+    },
+    {
+        "name": "Kijkuit",
+        "code": "GKT"
+    },
+    {
+        "name": "Heide (B)",
+        "code": "MID"
+    },
+    {
+        "name": "Kapellen",
+        "code": "LKP"
+    },
+    {
+        "name": "Sint-Mariaburg",
+        "code": "MARIA"
+    },
+    {
+        "name": "Mechelen",
+        "code": "MECH"
+    },
+    {
+        "name": "Puurs",
+        "code": "FRP"
+    },
+    {
+        "name": "Boom",
+        "code": "FMB"
+    },
+    {
+        "name": "Ruisbroek-Sauvegarde",
+        "code": "FSV"
+    },
+    {
+        "name": "Hoboken-Polder",
+        "code": "FOE"
+    },
+    {
+        "name": "Hemiksem",
+        "code": "LKM"
+    },
+    {
+        "name": "Schelle",
+        "code": "SCHLL"
+    },
+    {
+        "name": "Niel",
+        "code": "LNI"
+    },
+    {
+        "name": "Hasselt",
+        "code": "FHS"
+    },
+    {
+        "name": "Diepenbeek",
+        "code": "GDP"
+    },
+    {
+        "name": "Bilzen",
+        "code": "FIE"
+    },
+    {
+        "name": "Tongeren",
+        "code": "FTG"
+    },
+    {
+        "name": "Leuven",
+        "code": "LEUVEN"
+    },
+    {
+        "name": "Li\u00e8ge-Guillemins",
+        "code": "LUIK"
+    },
+    {
+        "name": "Li\u00e8ge-Saint-Lambert",
+        "code": "FLGP"
+    },
+    {
+        "name": "Li\u00e8ge-Carr\u00e9",
+        "code": "FLJ"
+    },
+    {
+        "name": "Herstal",
+        "code": "LHS"
+    },
+    {
+        "name": "Milmort",
+        "code": "BLTM"
+    },
+    {
+        "name": "Liers",
+        "code": "LSL"
+    },
+    {
+        "name": "Glons",
+        "code": "LGL"
+    },
+    {
+        "name": "Bressoux",
+        "code": "BRESSX"
+    },
+    {
+        "name": "Vis\u00e9",
+        "code": "FVS"
+    },
+    {
+        "name": "Lokeren",
+        "code": "FLK"
+    },
+    {
+        "name": "Sinaai",
+        "code": "LSW"
+    },
+    {
+        "name": "Belsele",
+        "code": "LLB"
+    },
+    {
+        "name": "Sint-Niklaas",
+        "code": "FSN"
+    },
+    {
+        "name": "Nieuwkerken-Waas",
+        "code": "FNU"
+    },
+    {
+        "name": "Beveren",
+        "code": "FBR"
+    },
+    {
+        "name": "Melsele",
+        "code": "LM"
+    },
+    {
+        "name": "Zwijndrecht (B)",
+        "code": "LZD"
+    },
+    {
+        "name": "London St. Pancras Int.",
+        "code": "STP"
+    },
+    {
+        "name": "Wien Hbf",
+        "code": "WBF"
+    },
+    {
+        "name": "Wien H\u00fctteldorf",
+        "code": "WIENH"
+    },
+    {
+        "name": "St.P\u00f6lten Hbf",
+        "code": "POLTEN"
+    },
+    {
+        "name": "Amstetten N\u00d6",
+        "code": "AMST"
+    },
+    {
+        "name": "Linz Hbf",
+        "code": "LINZ"
+    },
+    {
+        "name": "Wels Hbf",
+        "code": "WELS"
+    },
+    {
+        "name": "Jenbach",
+        "code": "JENBAC"
+    },
+    {
+        "name": "Innsbruck Hbf",
+        "code": "INNSB"
+    },
+    {
+        "name": "Kufstein",
+        "code": "KUFST"
+    },
+    {
+        "name": "Aalten",
+        "code": "ATN"
+    },
+    {
+        "name": "Abcoude",
+        "code": "AC"
+    },
+    {
+        "name": "Akkrum",
+        "code": "AKM"
+    },
+    {
+        "name": "Alkmaar",
+        "code": "AMR"
+    },
+    {
+        "name": "Almelo",
+        "code": "AML"
+    },
+    {
+        "name": "Alkmaar Noord",
+        "code": "AMRN"
+    },
+    {
+        "name": "Alphen a/d Rijn",
+        "code": "APN"
+    },
+    {
+        "name": "Amersfoort Schothorst",
+        "code": "AMFS"
+    },
+    {
+        "name": "Amersfoort Centraal",
+        "code": "AMF"
+    },
+    {
+        "name": "Amsterdam RAI",
+        "code": "RAI"
+    },
+    {
+        "name": "Amsterdam Amstel",
+        "code": "ASA"
+    },
+    {
+        "name": "Amsterdam Centraal",
+        "code": "ASD"
+    },
+    {
+        "name": "Amsterdam Sloterdijk",
+        "code": "ASS"
+    },
+    {
+        "name": "Amsterdam Muiderpoort",
+        "code": "ASDM"
+    },
+    {
+        "name": "Amsterdam Zuid",
+        "code": "ASDZ"
+    },
+    {
+        "name": "Anna Paulowna",
+        "code": "ANA"
+    },
+    {
+        "name": "Apeldoorn",
+        "code": "APD"
+    },
+    {
+        "name": "Appingedam",
+        "code": "APG"
+    },
+    {
+        "name": "Arkel",
+        "code": "AKL"
+    },
+    {
+        "name": "Arnemuiden",
+        "code": "ARN"
+    },
+    {
+        "name": "Arnhem Centraal",
+        "code": "AH"
+    },
+    {
+        "name": "Arnhem Velperpoort",
+        "code": "AHP"
+    },
+    {
+        "name": "Assen",
+        "code": "ASN"
+    },
+    {
+        "name": "Amsterdam Bijlmer ArenA",
+        "code": "ASB"
+    },
+    {
+        "name": "Arnhem Presikhaaf",
+        "code": "AHPR"
+    },
+    {
+        "name": "Amsterdam Van der Madeweg",
+        "code": "VMW"
+    },
+    {
+        "name": "Amsterdam Lelylaan",
+        "code": "ASDL"
+    },
+    {
+        "name": "Almere Centrum",
+        "code": "ALM"
+    },
+    {
+        "name": "Almere Buiten",
+        "code": "ALMB"
+    },
+    {
+        "name": "Almere Muziekwijk",
+        "code": "ALMM"
+    },
+    {
+        "name": "Baarn",
+        "code": "BRN"
+    },
+    {
+        "name": "Baflo",
+        "code": "BF"
+    },
+    {
+        "name": "Barendrecht",
+        "code": "BRD"
+    },
+    {
+        "name": "Barneveld Centrum",
+        "code": "BNC"
+    },
+    {
+        "name": "Barneveld Noord",
+        "code": "BNN"
+    },
+    {
+        "name": "Bedum",
+        "code": "BDM"
+    },
+    {
+        "name": "Beek-Elsloo",
+        "code": "BK"
+    },
+    {
+        "name": "Beesd",
+        "code": "BSD"
+    },
+    {
+        "name": "Beilen",
+        "code": "BL"
+    },
+    {
+        "name": "Almere Parkwijk",
+        "code": "ALMP"
+    },
+    {
+        "name": "Bergen op Zoom",
+        "code": "BGN"
+    },
+    {
+        "name": "Best",
+        "code": "BET"
+    },
+    {
+        "name": "Beverwijk",
+        "code": "BV"
+    },
+    {
+        "name": "Bilthoven",
+        "code": "BHV"
+    },
+    {
+        "name": "Barneveld Zuid",
+        "code": "BNZ"
+    },
+    {
+        "name": "Blerick",
+        "code": "BR"
+    },
+    {
+        "name": "Bloemendaal",
+        "code": "BLL"
+    },
+    {
+        "name": "Bodegraven",
+        "code": "BDG"
+    },
+    {
+        "name": "Borne",
+        "code": "BN"
+    },
+    {
+        "name": "Boskoop",
+        "code": "BSK"
+    },
+    {
+        "name": "Boskoop Snijdelwijk",
+        "code": "BSKS"
+    },
+    {
+        "name": "Bovenkarspel-Grootebroek",
+        "code": "BKG"
+    },
+    {
+        "name": "Boxmeer",
+        "code": "BMR"
+    },
+    {
+        "name": "Boxtel",
+        "code": "BTL"
+    },
+    {
+        "name": "Breda",
+        "code": "BD"
+    },
+    {
+        "name": "Breda-Prinsenbeek",
+        "code": "BDPB"
+    },
+    {
+        "name": "Breukelen",
+        "code": "BKL"
+    },
+    {
+        "name": "Lansingerland-Zoetermeer",
+        "code": "LLZM"
+    },
+    {
+        "name": "Brummen",
+        "code": "BMN"
+    },
+    {
+        "name": "Buitenpost",
+        "code": "BP"
+    },
+    {
+        "name": "Bunde",
+        "code": "BDE"
+    },
+    {
+        "name": "Bunnik",
+        "code": "BNK"
+    },
+    {
+        "name": "Bussum Zuid",
+        "code": "BSMZ"
+    },
+    {
+        "name": "Capelle Schollevaar",
+        "code": "CPS"
+    },
+    {
+        "name": "Castricum",
+        "code": "CAS"
+    },
+    {
+        "name": "Chevremont",
+        "code": "CVM"
+    },
+    {
+        "name": "Coevorden",
+        "code": "CO"
+    },
+    {
+        "name": "Culemborg",
+        "code": "CL"
+    },
+    {
+        "name": "Cuijk",
+        "code": "CK"
+    },
+    {
+        "name": "Dalen",
+        "code": "DLN"
+    },
+    {
+        "name": "Diemen Zuid",
+        "code": "DMNZ"
+    },
+    {
+        "name": "Daarlerveen",
+        "code": "DA"
+    },
+    {
+        "name": "Diemen",
+        "code": "DMN"
+    },
+    {
+        "name": "Delft Campus",
+        "code": "DTCP"
+    },
+    {
+        "name": "Dalfsen",
+        "code": "DL"
+    },
+    {
+        "name": "Deinum",
+        "code": "DEI"
+    },
+    {
+        "name": "Delden",
+        "code": "DDN"
+    },
+    {
+        "name": "Delft",
+        "code": "DT"
+    },
+    {
+        "name": "Delfzijl",
+        "code": "DZ"
+    },
+    {
+        "name": "Deurne",
+        "code": "DN"
+    },
+    {
+        "name": "Deventer",
+        "code": "DV"
+    },
+    {
+        "name": "Didam",
+        "code": "DID"
+    },
+    {
+        "name": "Delfzijl West",
+        "code": "DZW"
+    },
+    {
+        "name": "Dieren",
+        "code": "DR"
+    },
+    {
+        "name": "Doetinchem",
+        "code": "DTC"
+    },
+    {
+        "name": "Den Dolder",
+        "code": "DLD"
+    },
+    {
+        "name": "Dordrecht",
+        "code": "DDR"
+    },
+    {
+        "name": "Dordrecht Zuid",
+        "code": "DDZD"
+    },
+    {
+        "name": "Driebergen-Zeist",
+        "code": "DB"
+    },
+    {
+        "name": "Driehuis",
+        "code": "DRH"
+    },
+    {
+        "name": "Doetinchem De Huet",
+        "code": "DTCH"
+    },
+    {
+        "name": "Deventer Colmschate",
+        "code": "DVC"
+    },
+    {
+        "name": "Dordrecht Stadspolders",
+        "code": "DDRS"
+    },
+    {
+        "name": "De Vink",
+        "code": "DVNK"
+    },
+    {
+        "name": "Dronryp",
+        "code": "DRP"
+    },
+    {
+        "name": "Duiven",
+        "code": "DVN"
+    },
+    {
+        "name": "Duivendrecht",
+        "code": "DVD"
+    },
+    {
+        "name": "Echt",
+        "code": "EC"
+    },
+    {
+        "name": "Eindhoven Strijp-S",
+        "code": "EHS"
+    },
+    {
+        "name": "Dronten",
+        "code": "DRON"
+    },
+    {
+        "name": "Ede-Wageningen",
+        "code": "ED"
+    },
+    {
+        "name": "Ede Centrum",
+        "code": "EDC"
+    },
+    {
+        "name": "Eemshaven",
+        "code": "EEM"
+    },
+    {
+        "name": "Eindhoven Centraal",
+        "code": "EHV"
+    },
+    {
+        "name": "Elst",
+        "code": "EST"
+    },
+    {
+        "name": "Emmen",
+        "code": "EMN"
+    },
+    {
+        "name": "Enkhuizen",
+        "code": "EKZ"
+    },
+    {
+        "name": "Enschede",
+        "code": "ES"
+    },
+    {
+        "name": "Ermelo",
+        "code": "EML"
+    },
+    {
+        "name": "Enschede De Eschmarke",
+        "code": "ESE"
+    },
+    {
+        "name": "Etten-Leur",
+        "code": "ETN"
+    },
+    {
+        "name": "Eijsden",
+        "code": "EDN"
+    },
+    {
+        "name": "Enschede Kennispark",
+        "code": "ESK"
+    },
+    {
+        "name": "Almere Oostvaarders",
+        "code": "ALMO"
+    },
+    {
+        "name": "Arnhem Zuid",
+        "code": "AHZ"
+    },
+    {
+        "name": "Amersfoort Vathorst",
+        "code": "AVAT"
+    },
+    {
+        "name": "Apeldoorn Osseveld",
+        "code": "APDO"
+    },
+    {
+        "name": "Bovenkarspel Flora",
+        "code": "BKF"
+    },
+    {
+        "name": "Amsterdam Holendrecht",
+        "code": "ASHD"
+    },
+    {
+        "name": "Franeker",
+        "code": "FN"
+    },
+    {
+        "name": "Apeldoorn De Maten",
+        "code": "APDM"
+    },
+    {
+        "name": "Eygelshoven Markt",
+        "code": "EGHM"
+    },
+    {
+        "name": "Amsterdam Science Park",
+        "code": "ASSP"
+    },
+    {
+        "name": "Boven-Hardinxveld",
+        "code": "BHDV"
+    },
+    {
+        "name": "Groningen Europapark",
+        "code": "GERP"
+    },
+    {
+        "name": "Gaanderen",
+        "code": "GDR"
+    },
+    {
+        "name": "Helmond Brandevoort",
+        "code": "HMBV"
+    },
+    {
+        "name": "Geldermalsen",
+        "code": "GDM"
+    },
+    {
+        "name": "Geldrop",
+        "code": "GP"
+    },
+    {
+        "name": "Geleen Oost",
+        "code": "GLN"
+    },
+    {
+        "name": "Geleen-Lutterade",
+        "code": "LUT"
+    },
+    {
+        "name": "Gilze-Rijen",
+        "code": "GZ"
+    },
+    {
+        "name": "Goes",
+        "code": "GS"
+    },
+    {
+        "name": "Goor",
+        "code": "GO"
+    },
+    {
+        "name": "Gorinchem",
+        "code": "GR"
+    },
+    {
+        "name": "Gouda Goverwelle",
+        "code": "GDG"
+    },
+    {
+        "name": "Gouda",
+        "code": "GD"
+    },
+    {
+        "name": "Gramsbergen",
+        "code": "GBG"
+    },
+    {
+        "name": "Glanerbrug",
+        "code": "GBR"
+    },
+    {
+        "name": "Groningen",
+        "code": "GN"
+    },
+    {
+        "name": "Groningen Noord",
+        "code": "GNN"
+    },
+    {
+        "name": "Grou-Jirnsum",
+        "code": "GW"
+    },
+    {
+        "name": "Grijpskerk",
+        "code": "GK"
+    },
+    {
+        "name": "Haarlem Spaarnwoude",
+        "code": "HLMS"
+    },
+    {
+        "name": "Den Haag Mariahoeve",
+        "code": "GVM"
+    },
+    {
+        "name": "Den Haag Moerwijk",
+        "code": "GVMW"
+    },
+    {
+        "name": "Den Haag HS",
+        "code": "GV"
+    },
+    {
+        "name": "Den Haag Centraal",
+        "code": "GVC"
+    },
+    {
+        "name": "Haarlem",
+        "code": "HLM"
+    },
+    {
+        "name": "Haren OV Transferium",
+        "code": "HRNOVT"
+    },
+    {
+        "name": "Hurdegaryp",
+        "code": "HDG"
+    },
+    {
+        "name": "Hardenberg",
+        "code": "HDB"
+    },
+    {
+        "name": "Harderwijk",
+        "code": "HD"
+    },
+    {
+        "name": "Hardinxveld-Giessendam",
+        "code": "GND"
+    },
+    {
+        "name": "Harlingen",
+        "code": "HLG"
+    },
+    {
+        "name": "Haren",
+        "code": "HRN"
+    },
+    {
+        "name": "Harlingen Haven",
+        "code": "HLGH"
+    },
+    {
+        "name": "Helmond Brouwhuis",
+        "code": "HMBH"
+    },
+    {
+        "name": "Helmond 't Hout",
+        "code": "HMH"
+    },
+    {
+        "name": "Heerenveen IJsstadion",
+        "code": "HRY"
+    },
+    {
+        "name": "Heemstede-Aerdenhout",
+        "code": "HAD"
+    },
+    {
+        "name": "Den Helder Zuid",
+        "code": "HDRZ"
+    },
+    {
+        "name": "Heerenveen",
+        "code": "HR"
+    },
+    {
+        "name": "Heerhugowaard",
+        "code": "HWD"
+    },
+    {
+        "name": "Heerlen",
+        "code": "HRL"
+    },
+    {
+        "name": "Heeze",
+        "code": "HZE"
+    },
+    {
+        "name": "Heiloo",
+        "code": "HLO"
+    },
+    {
+        "name": "Heino",
+        "code": "HNO"
+    },
+    {
+        "name": "Den Helder",
+        "code": "HDR"
+    },
+    {
+        "name": "Hengelo Oost",
+        "code": "HGLO"
+    },
+    {
+        "name": "Helmond",
+        "code": "HM"
+    },
+    {
+        "name": "Hemmen-Dodewaard",
+        "code": "HMN"
+    },
+    {
+        "name": "Hengelo",
+        "code": "HGL"
+    },
+    {
+        "name": "Heemskerk",
+        "code": "HK"
+    },
+    {
+        "name": "'s-Hertogenbosch",
+        "code": "HT"
+    },
+    {
+        "name": "'s-Hertogenbosch Oost",
+        "code": "HTO"
+    },
+    {
+        "name": "Hilversum",
+        "code": "HVS"
+    },
+    {
+        "name": "Hindeloopen",
+        "code": "HNP"
+    },
+    {
+        "name": "Hilversum Media Park",
+        "code": "HVSM"
+    },
+    {
+        "name": "Hoensbroek",
+        "code": "HB"
+    },
+    {
+        "name": "Hollandsche Rading",
+        "code": "HOR"
+    },
+    {
+        "name": "Holten",
+        "code": "HON"
+    },
+    {
+        "name": "Hillegom",
+        "code": "HIL"
+    },
+    {
+        "name": "Hoogeveen",
+        "code": "HGV"
+    },
+    {
+        "name": "Hoogezand-Sappemeer",
+        "code": "HGZ"
+    },
+    {
+        "name": "Hoofddorp",
+        "code": "HFD"
+    },
+    {
+        "name": "Hoogkarspel",
+        "code": "HKS"
+    },
+    {
+        "name": "Houten Castellum",
+        "code": "HTNC"
+    },
+    {
+        "name": "Hoorn Kersenboogerd",
+        "code": "HNK"
+    },
+    {
+        "name": "Hoorn",
+        "code": "HN"
+    },
+    {
+        "name": "Eygelshoven",
+        "code": "EGH"
+    },
+    {
+        "name": "Horst-Sevenum",
+        "code": "HRT"
+    },
+    {
+        "name": "Houten",
+        "code": "HTN"
+    },
+    {
+        "name": "Houthem-St. Gerlach",
+        "code": "SGL"
+    },
+    {
+        "name": "Kampen",
+        "code": "KPN"
+    },
+    {
+        "name": "Kapelle-Biezelinge",
+        "code": "BZL"
+    },
+    {
+        "name": "Kerkrade Centrum",
+        "code": "KRD"
+    },
+    {
+        "name": "Kesteren",
+        "code": "KTR"
+    },
+    {
+        "name": "Kampen Zuid",
+        "code": "KPNZ"
+    },
+    {
+        "name": "Klarenbeek",
+        "code": "KBK"
+    },
+    {
+        "name": "Klimmen-Ransdaal",
+        "code": "KMR"
+    },
+    {
+        "name": "Koog aan de Zaan",
+        "code": "KZ"
+    },
+    {
+        "name": "Zaandijk Zaanse Schans",
+        "code": "ZZS"
+    },
+    {
+        "name": "Koudum-Molkwerum",
+        "code": "KMW"
+    },
+    {
+        "name": "Krabbendijke",
+        "code": "KBD"
+    },
+    {
+        "name": "Krommenie-Assendelft",
+        "code": "KMA"
+    },
+    {
+        "name": "Kropswolde",
+        "code": "KW"
+    },
+    {
+        "name": "Kruiningen-Yerseke",
+        "code": "KRG"
+    },
+    {
+        "name": "Leiden Transferium",
+        "code": "LEDT"
+    },
+    {
+        "name": "Den Haag Ypenburg",
+        "code": "YPB"
+    },
+    {
+        "name": "Den Haag Laan v NOI",
+        "code": "LAA"
+    },
+    {
+        "name": "Heiloo OV halte",
+        "code": "HLOOV"
+    },
+    {
+        "name": "Lage Zwaluwe",
+        "code": "ZLW"
+    },
+    {
+        "name": "Leiden Lammenschans",
+        "code": "LDL"
+    },
+    {
+        "name": "Leerdam",
+        "code": "LDM"
+    },
+    {
+        "name": "Leeuwarden",
+        "code": "LW"
+    },
+    {
+        "name": "'t Harde",
+        "code": "HDE"
+    },
+    {
+        "name": "Leeuwarden Camminghaburen",
+        "code": "LWC"
+    },
+    {
+        "name": "Leiden Centraal",
+        "code": "LEDN"
+    },
+    {
+        "name": "Lelystad Centrum",
+        "code": "LLS"
+    },
+    {
+        "name": "Lichtenvoorde-Groenlo",
+        "code": "LTV"
+    },
+    {
+        "name": "Lochem",
+        "code": "LC"
+    },
+    {
+        "name": "Halfweg-Zwanenburg",
+        "code": "HWZB"
+    },
+    {
+        "name": "Loppersum",
+        "code": "LP"
+    },
+    {
+        "name": "Heerlen Woonboulevard",
+        "code": "HRLW"
+    },
+    {
+        "name": "Lunteren",
+        "code": "LTN"
+    },
+    {
+        "name": "Emmen Zuid",
+        "code": "EMNZ"
+    },
+    {
+        "name": "Maarn",
+        "code": "MRN"
+    },
+    {
+        "name": "Maarssen",
+        "code": "MAS"
+    },
+    {
+        "name": "Maastricht",
+        "code": "MT"
+    },
+    {
+        "name": "Maastricht Randwyck",
+        "code": "MTR"
+    },
+    {
+        "name": "Mantgum",
+        "code": "MG"
+    },
+    {
+        "name": "Mari\u00ebnberg",
+        "code": "MRB"
+    },
+    {
+        "name": "Martenshoek",
+        "code": "MTH"
+    },
+    {
+        "name": "Maarheeze",
+        "code": "MZ"
+    },
+    {
+        "name": "Hengelo Gezondheidspark",
+        "code": "HGLG"
+    },
+    {
+        "name": "Meerssen",
+        "code": "MES"
+    },
+    {
+        "name": "Meppel",
+        "code": "MP"
+    },
+    {
+        "name": "Middelburg",
+        "code": "MDB"
+    },
+    {
+        "name": "Hardinxveld Blauwe Zoom",
+        "code": "HBZM"
+    },
+    {
+        "name": "Mook-Molenhoek",
+        "code": "MMLH"
+    },
+    {
+        "name": "Maastricht Noord",
+        "code": "MTN"
+    },
+    {
+        "name": "Almere Poort",
+        "code": "AMPO"
+    },
+    {
+        "name": "Nijmegen Lent",
+        "code": "NML"
+    },
+    {
+        "name": "Naarden-Bussum",
+        "code": "NDB"
+    },
+    {
+        "name": "Nieuw Amsterdam",
+        "code": "NA"
+    },
+    {
+        "name": "Nieuwerkerk a/d IJssel",
+        "code": "NWK"
+    },
+    {
+        "name": "Bad Nieuweschans",
+        "code": "NSCH"
+    },
+    {
+        "name": "Nieuw Vennep",
+        "code": "NVP"
+    },
+    {
+        "name": "Nunspeet",
+        "code": "NS"
+    },
+    {
+        "name": "Nuth",
+        "code": "NH"
+    },
+    {
+        "name": "Nijmegen Heyendaal",
+        "code": "NMH"
+    },
+    {
+        "name": "Nijkerk",
+        "code": "NKK"
+    },
+    {
+        "name": "Nijmegen",
+        "code": "NM"
+    },
+    {
+        "name": "Nijverdal",
+        "code": "NVD"
+    },
+    {
+        "name": "Nijmegen Dukenburg",
+        "code": "NMD"
+    },
+    {
+        "name": "Nijmegen Goffert",
+        "code": "NMGO"
+    },
+    {
+        "name": "Obdam",
+        "code": "OBD"
+    },
+    {
+        "name": "Oisterwijk",
+        "code": "OT"
+    },
+    {
+        "name": "Oldenzaal",
+        "code": "ODZ"
+    },
+    {
+        "name": "Olst",
+        "code": "OST"
+    },
+    {
+        "name": "Ommen",
+        "code": "OMN"
+    },
+    {
+        "name": "Oosterbeek",
+        "code": "OTB"
+    },
+    {
+        "name": "Hoevelaken",
+        "code": "HVL"
+    },
+    {
+        "name": "Opheusden",
+        "code": "OP"
+    },
+    {
+        "name": "Oss",
+        "code": "O"
+    },
+    {
+        "name": "Oss West",
+        "code": "OW"
+    },
+    {
+        "name": "Sliedrecht Baanhoek",
+        "code": "SDTB"
+    },
+    {
+        "name": "Oudenbosch",
+        "code": "ODB"
+    },
+    {
+        "name": "Purmerend Weidevenne",
+        "code": "PMW"
+    },
+    {
+        "name": "Overveen",
+        "code": "OVN"
+    },
+    {
+        "name": "Rijswijk",
+        "code": "RSW"
+    },
+    {
+        "name": "Purmerend Overwhere",
+        "code": "PMO"
+    },
+    {
+        "name": "Rotterdam Alexander",
+        "code": "RTA"
+    },
+    {
+        "name": "Purmerend",
+        "code": "PMR"
+    },
+    {
+        "name": "Putten",
+        "code": "PT"
+    },
+    {
+        "name": "Raalte",
+        "code": "RAT"
+    },
+    {
+        "name": "Ravenstein",
+        "code": "RVS"
+    },
+    {
+        "name": "Rhenen",
+        "code": "RHN"
+    },
+    {
+        "name": "Reuver",
+        "code": "RV"
+    },
+    {
+        "name": "Rheden",
+        "code": "RH"
+    },
+    {
+        "name": "Almelo de Riet",
+        "code": "AMRI"
+    },
+    {
+        "name": "Rilland-Bath",
+        "code": "RB"
+    },
+    {
+        "name": "Roermond",
+        "code": "RM"
+    },
+    {
+        "name": "Rosmalen",
+        "code": "RS"
+    },
+    {
+        "name": "Roodeschool",
+        "code": "RD"
+    },
+    {
+        "name": "Roosendaal",
+        "code": "RSD"
+    },
+    {
+        "name": "Rotterdam Blaak",
+        "code": "RTB"
+    },
+    {
+        "name": "Rotterdam Centraal",
+        "code": "RTD"
+    },
+    {
+        "name": "Rotterdam Noord",
+        "code": "RTN"
+    },
+    {
+        "name": "Rotterdam Zuid",
+        "code": "RTZ"
+    },
+    {
+        "name": "Rotterdam Stadion",
+        "code": "RTST"
+    },
+    {
+        "name": "Ruurlo",
+        "code": "RL"
+    },
+    {
+        "name": "Rijssen",
+        "code": "RSN"
+    },
+    {
+        "name": "Rotterdam Lombardijen",
+        "code": "RLB"
+    },
+    {
+        "name": "Santpoort Noord",
+        "code": "SPTN"
+    },
+    {
+        "name": "Santpoort Zuid",
+        "code": "SPTZ"
+    },
+    {
+        "name": "Sauwerd",
+        "code": "SWD"
+    },
+    {
+        "name": "Landgraaf",
+        "code": "LG"
+    },
+    {
+        "name": "Schagen",
+        "code": "SGN"
+    },
+    {
+        "name": "Scheemda",
+        "code": "SDA"
+    },
+    {
+        "name": "Schiedam Centrum",
+        "code": "SDM"
+    },
+    {
+        "name": "Schinnen",
+        "code": "SN"
+    },
+    {
+        "name": "Schin op Geul",
+        "code": "SOG"
+    },
+    {
+        "name": "Schiphol Airport",
+        "code": "SHL"
+    },
+    {
+        "name": "Sittard",
+        "code": "STD"
+    },
+    {
+        "name": "Sliedrecht",
+        "code": "SDT"
+    },
+    {
+        "name": "Sneek",
+        "code": "SK"
+    },
+    {
+        "name": "Soest",
+        "code": "ST"
+    },
+    {
+        "name": "Soestdijk",
+        "code": "SD"
+    },
+    {
+        "name": "Hilversum Sportpark",
+        "code": "HVSP"
+    },
+    {
+        "name": "Soest Zuid",
+        "code": "STZ"
+    },
+    {
+        "name": "Spaubeek",
+        "code": "SBK"
+    },
+    {
+        "name": "Sneek Noord",
+        "code": "SKND"
+    },
+    {
+        "name": "Stavoren",
+        "code": "STV"
+    },
+    {
+        "name": "Stedum",
+        "code": "STM"
+    },
+    {
+        "name": "Steenwijk",
+        "code": "SWK"
+    },
+    {
+        "name": "Susteren",
+        "code": "SRN"
+    },
+    {
+        "name": "Swalmen",
+        "code": "SM"
+    },
+    {
+        "name": "Tegelen",
+        "code": "TG"
+    },
+    {
+        "name": "Terborg",
+        "code": "TBG"
+    },
+    {
+        "name": "Tilburg Universiteit",
+        "code": "TBU"
+    },
+    {
+        "name": "Tiel",
+        "code": "TL"
+    },
+    {
+        "name": "Tilburg",
+        "code": "TB"
+    },
+    {
+        "name": "Tilburg Reeshof",
+        "code": "TBR"
+    },
+    {
+        "name": "Twello",
+        "code": "TWL"
+    },
+    {
+        "name": "Tiel Passewaaij",
+        "code": "TPSW"
+    },
+    {
+        "name": "Sassenheim",
+        "code": "SSH"
+    },
+    {
+        "name": "Utrecht Vaartsche Rijn",
+        "code": "UTVR"
+    },
+    {
+        "name": "Utrecht Leidsche Rijn",
+        "code": "UTLR"
+    },
+    {
+        "name": "Utrecht Zuilen",
+        "code": "UTZL"
+    },
+    {
+        "name": "Utrecht Terwijde",
+        "code": "UTT"
+    },
+    {
+        "name": "Uitgeest",
+        "code": "UTG"
+    },
+    {
+        "name": "Uithuizen",
+        "code": "UHZ"
+    },
+    {
+        "name": "Uithuizermeeden",
+        "code": "UHM"
+    },
+    {
+        "name": "Usquert",
+        "code": "UST"
+    },
+    {
+        "name": "Utrecht Overvecht",
+        "code": "UTO"
+    },
+    {
+        "name": "Utrecht Centraal",
+        "code": "UT"
+    },
+    {
+        "name": "Utrecht Lunetten",
+        "code": "UTLN"
+    },
+    {
+        "name": "Utrecht Maliebaan",
+        "code": "UTM"
+    },
+    {
+        "name": "Veenendaal Centrum",
+        "code": "VNDC"
+    },
+    {
+        "name": "Veenendaal West",
+        "code": "VNDW"
+    },
+    {
+        "name": "Valkenburg",
+        "code": "VK"
+    },
+    {
+        "name": "Varsseveld",
+        "code": "VSV"
+    },
+    {
+        "name": "Veendam",
+        "code": "VDM"
+    },
+    {
+        "name": "Veenendaal-De Klomp",
+        "code": "KLP"
+    },
+    {
+        "name": "Feanw\u00e2lden",
+        "code": "FWD"
+    },
+    {
+        "name": "Velp",
+        "code": "VP"
+    },
+    {
+        "name": "Venlo",
+        "code": "VL"
+    },
+    {
+        "name": "Venray",
+        "code": "VRY"
+    },
+    {
+        "name": "Vierlingsbeek",
+        "code": "VLB"
+    },
+    {
+        "name": "Vleuten",
+        "code": "VTN"
+    },
+    {
+        "name": "Vlissingen",
+        "code": "VS"
+    },
+    {
+        "name": "Vlissingen Souburg",
+        "code": "VSS"
+    },
+    {
+        "name": "Voorhout",
+        "code": "VH"
+    },
+    {
+        "name": "Voerendaal",
+        "code": "VDL"
+    },
+    {
+        "name": "Voorburg",
+        "code": "VB"
+    },
+    {
+        "name": "Voorschoten",
+        "code": "VST"
+    },
+    {
+        "name": "Vorden",
+        "code": "VD"
+    },
+    {
+        "name": "Vriezenveen",
+        "code": "VZ"
+    },
+    {
+        "name": "Vroomshoop",
+        "code": "VHP"
+    },
+    {
+        "name": "Vught",
+        "code": "VG"
+    },
+    {
+        "name": "Voorst-Empe",
+        "code": "VEM"
+    },
+    {
+        "name": "Waddinxveen Noord",
+        "code": "WADN"
+    },
+    {
+        "name": "Waddinxveen",
+        "code": "WAD"
+    },
+    {
+        "name": "Waddinxveen Triangel",
+        "code": "WADT"
+    },
+    {
+        "name": "Warffum",
+        "code": "WFM"
+    },
+    {
+        "name": "Weert",
+        "code": "WT"
+    },
+    {
+        "name": "Weesp",
+        "code": "WP"
+    },
+    {
+        "name": "Wehl",
+        "code": "WL"
+    },
+    {
+        "name": "Westervoort",
+        "code": "WTV"
+    },
+    {
+        "name": "Wezep",
+        "code": "WZ"
+    },
+    {
+        "name": "Wierden",
+        "code": "WDN"
+    },
+    {
+        "name": "Winschoten",
+        "code": "WS"
+    },
+    {
+        "name": "Winsum",
+        "code": "WSM"
+    },
+    {
+        "name": "Winterswijk",
+        "code": "WW"
+    },
+    {
+        "name": "Winterswijk West",
+        "code": "WWW"
+    },
+    {
+        "name": "Woerden",
+        "code": "WD"
+    },
+    {
+        "name": "Wolfheze",
+        "code": "WF"
+    },
+    {
+        "name": "Wolvega",
+        "code": "WV"
+    },
+    {
+        "name": "Workum",
+        "code": "WK"
+    },
+    {
+        "name": "Wormerveer",
+        "code": "WM"
+    },
+    {
+        "name": "Wijchen",
+        "code": "WC"
+    },
+    {
+        "name": "Wijhe",
+        "code": "WH"
+    },
+    {
+        "name": "IJlst",
+        "code": "IJT"
+    },
+    {
+        "name": "Zaandam Kogerveld",
+        "code": "ZDK"
+    },
+    {
+        "name": "Zaandam",
+        "code": "ZD"
+    },
+    {
+        "name": "Zaltbommel",
+        "code": "ZBM"
+    },
+    {
+        "name": "Zandvoort aan Zee",
+        "code": "ZVT"
+    },
+    {
+        "name": "Zetten-Andelst",
+        "code": "ZA"
+    },
+    {
+        "name": "Zevenaar",
+        "code": "ZV"
+    },
+    {
+        "name": "Zevenbergen",
+        "code": "ZVB"
+    },
+    {
+        "name": "Zoetermeer Oost",
+        "code": "ZTMO"
+    },
+    {
+        "name": "Zoetermeer",
+        "code": "ZTM"
+    },
+    {
+        "name": "Zuidbroek",
+        "code": "ZB"
+    },
+    {
+        "name": "Zuidhorn",
+        "code": "ZH"
+    },
+    {
+        "name": "Zutphen",
+        "code": "ZP"
+    },
+    {
+        "name": "De Westereen",
+        "code": "DWE"
+    },
+    {
+        "name": "Zwolle Stadshagen",
+        "code": "ZLSH"
+    },
+    {
+        "name": "Zwolle",
+        "code": "ZL"
+    },
+    {
+        "name": "Zwijndrecht",
+        "code": "ZWD"
+    },
+    {
+        "name": "Basel SBB",
+        "code": "BASELS"
+    },
+    {
+        "name": "Z\u00fcrich HB",
+        "code": "ZUE"
+    },
+    {
+        "name": "Baden (CH)",
+        "code": "BADENZ"
+    },
+    {
+        "name": "Lille Europe",
+        "code": "LILLEE"
+    },
+    {
+        "name": "Paris-Nord",
+        "code": "PARIS"
+    },
+    {
+        "name": "Airport Charles de Gaulle",
+        "code": "ACDG"
+    },
+    {
+        "name": "Avignon TGV",
+        "code": "AVTGV"
+    },
+    {
+        "name": "Aix-en-Provence TGV",
+        "code": "AIXTGV"
+    },
+    {
+        "name": "Marne-la-Vall\u00e9e-Chessy",
+        "code": "MARNE"
+    },
+    {
+        "name": "Chamb\u00e9ry",
+        "code": "CHAMB"
+    },
+    {
+        "name": "Albertville",
+        "code": "ALBERT"
+    },
+    {
+        "name": "Moutiers-Salins-Brides",
+        "code": "MOUT"
+    },
+    {
+        "name": "Aime-la-Plagne",
+        "code": "AIME"
+    },
+    {
+        "name": "Landry",
+        "code": "LANDRY"
+    },
+    {
+        "name": "Bourg-St-Maurice",
+        "code": "BOURG"
+    },
+    {
+        "name": "Marseille-St-Charles",
+        "code": "MARS"
+    },
+    {
+        "name": "Valence TGV",
+        "code": "VALTGV"
+    }
+]

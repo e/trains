@@ -1,0 +1,28 @@
+{% extends 'departures/base.html' %}
+{% block content %}
+
+{% if departures %}
+<table>
+    <tr>
+        <th colspan="4">Departures from: {{ station_code }}</th>
+    </tr>
+    <tr>
+        <th>Planned departure time</th>
+        <th>Direction</th>
+        <th>Platform</th>
+        <th>Train type</th>
+    </tr>
+    {% for departure in departures %}
+    <tr>
+        <td>{{ departure.planned_departure_time }}</a></td>
+        <td>{{ departure.direction }}</a></td>
+        <td>{{ departure.platform }}</a></td>
+        <td>{{ departure.train_type }}</a></td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p>No departures available.</p>
+{% endif %}
+
+{% endblock %}

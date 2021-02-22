@@ -1,0 +1,29 @@
+{% extends 'departures/base.html' %}
+{% block content %}
+
+<table>
+    <tr>
+        <th colspan="2">Assignment: Den Haag Centraal</th>
+    </tr>
+    <tr>
+        <td>Den Haag Centraal</td>
+        <td><a href="{% url 'departures' 'GVC' %}">GVC</a></td>
+    </tr>
+    {% if all_stations %}
+    <tr>
+        <th colspan="2">All stations</th>
+    </tr>
+    {% for station in all_stations %}
+    <tr>
+        <td>{{ station.name }}</a></td>
+        <td><a href="{% url 'departures' station.code %}">{{ station.code }}</a></td>
+    </tr>
+    {% endfor %}
+    {% else %}
+    <tr>
+    <td>No more stations available.</td>
+    </tr>
+    {% endif %}
+</table>
+
+{% endblock %}

@@ -1,0 +1,686 @@
+{
+    "payload": {
+        "source": "PPV",
+        "departures": [
+            {
+                "direction": "Dordrecht",
+                "name": "NS  5179",
+                "plannedDateTime": "2021-02-17T20:24:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:24:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "3",
+                "product": {
+                    "number": "5179",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400280",
+                        "mediumName": "Den Haag HS"
+                    },
+                    {
+                        "uicCode": "8400170",
+                        "mediumName": "Delft"
+                    },
+                    {
+                        "uicCode": "8400530",
+                        "mediumName": "Rotterdam C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amersfoort Schothorst",
+                "name": "NS 11777",
+                "plannedDateTime": "2021-02-17T20:25:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:25:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "5",
+                "product": {
+                    "number": "11777",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400258",
+                        "mediumName": "Gouda"
+                    },
+                    {
+                        "uicCode": "8400621",
+                        "mediumName": "Utrecht C."
+                    },
+                    {
+                        "uicCode": "8400055",
+                        "mediumName": "Amersfoort C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Groningen",
+                "name": "NS   777",
+                "plannedDateTime": "2021-02-17T20:33:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:33:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "9",
+                "product": {
+                    "number": "777",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400561",
+                        "mediumName": "Schiphol Airport"
+                    },
+                    {
+                        "uicCode": "8400061",
+                        "mediumName": "Amsterdam Z."
+                    },
+                    {
+                        "uicCode": "8400080",
+                        "mediumName": "Almere C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amsterdam Centraal",
+                "name": "NS  4681",
+                "plannedDateTime": "2021-02-17T20:38:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:38:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "8",
+                "product": {
+                    "number": "4681",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400380",
+                        "mediumName": "Laan v NOI"
+                    },
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400561",
+                        "mediumName": "Schiphol Airport"
+                    },
+                    {
+                        "uicCode": "8400059",
+                        "mediumName": "Sloterdijk"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Tiel",
+                "name": "NS  6981",
+                "plannedDateTime": "2021-02-17T20:43:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:43:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "6",
+                "product": {
+                    "number": "6981",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400741",
+                        "mediumName": "Zoetermeer"
+                    },
+                    {
+                        "uicCode": "8400258",
+                        "mediumName": "Gouda"
+                    },
+                    {
+                        "uicCode": "8400702",
+                        "mediumName": "Woerden"
+                    },
+                    {
+                        "uicCode": "8400621",
+                        "mediumName": "Utrecht C."
+                    }
+                ],
+                "messages": [
+                    {
+                        "message": "De Intercity van 20:55 naar Apeldoorn is eerder in Utrecht C. en vertrekt van spoor 5",
+                        "style": "INFO"
+                    }
+                ],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amsterdam Centraal",
+                "name": "NS  2168",
+                "plannedDateTime": "2021-02-17T20:47:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:47:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "9",
+                "product": {
+                    "number": "2168",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400302",
+                        "mediumName": "Heemstede-A."
+                    },
+                    {
+                        "uicCode": "8400285",
+                        "mediumName": "Haarlem"
+                    },
+                    {
+                        "uicCode": "8400059",
+                        "mediumName": "Sloterdijk"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Eindhoven Centraal",
+                "name": "NS  1179",
+                "plannedDateTime": "2021-02-17T20:47:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:47:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "1",
+                "product": {
+                    "number": "1179",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400280",
+                        "mediumName": "Den Haag HS"
+                    },
+                    {
+                        "uicCode": "8400170",
+                        "mediumName": "Delft"
+                    },
+                    {
+                        "uicCode": "8400530",
+                        "mediumName": "Rotterdam C."
+                    },
+                    {
+                        "uicCode": "8400131",
+                        "mediumName": "Breda"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Dordrecht",
+                "name": "NS  5181",
+                "plannedDateTime": "2021-02-17T20:54:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:54:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "3",
+                "product": {
+                    "number": "5181",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400280",
+                        "mediumName": "Den Haag HS"
+                    },
+                    {
+                        "uicCode": "8400170",
+                        "mediumName": "Delft"
+                    },
+                    {
+                        "uicCode": "8400530",
+                        "mediumName": "Rotterdam C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Apeldoorn",
+                "name": "NS  1779",
+                "plannedDateTime": "2021-02-17T20:55:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T20:55:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "5",
+                "product": {
+                    "number": "1779",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400258",
+                        "mediumName": "Gouda"
+                    },
+                    {
+                        "uicCode": "8400621",
+                        "mediumName": "Utrecht C."
+                    },
+                    {
+                        "uicCode": "8400055",
+                        "mediumName": "Amersfoort C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Leeuwarden",
+                "name": "NS  1879",
+                "plannedDateTime": "2021-02-17T21:03:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:03:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "10",
+                "product": {
+                    "number": "1879",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400561",
+                        "mediumName": "Schiphol Airport"
+                    },
+                    {
+                        "uicCode": "8400061",
+                        "mediumName": "Amsterdam Z."
+                    },
+                    {
+                        "uicCode": "8400080",
+                        "mediumName": "Almere C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amsterdam Centraal",
+                "name": "NS  4683",
+                "plannedDateTime": "2021-02-17T21:08:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:08:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "8",
+                "product": {
+                    "number": "4683",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400380",
+                        "mediumName": "Laan v NOI"
+                    },
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400561",
+                        "mediumName": "Schiphol Airport"
+                    },
+                    {
+                        "uicCode": "8400059",
+                        "mediumName": "Sloterdijk"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Tiel",
+                "name": "NS  6983",
+                "plannedDateTime": "2021-02-17T21:13:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:13:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "6",
+                "product": {
+                    "number": "6983",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400741",
+                        "mediumName": "Zoetermeer"
+                    },
+                    {
+                        "uicCode": "8400258",
+                        "mediumName": "Gouda"
+                    },
+                    {
+                        "uicCode": "8400702",
+                        "mediumName": "Woerden"
+                    },
+                    {
+                        "uicCode": "8400621",
+                        "mediumName": "Utrecht C."
+                    }
+                ],
+                "messages": [
+                    {
+                        "message": "De Intercity van 21:25 naar Schothorst is eerder in Utrecht C. en vertrekt van spoor 5",
+                        "style": "INFO"
+                    }
+                ],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amsterdam Centraal",
+                "name": "NS  2170",
+                "plannedDateTime": "2021-02-17T21:17:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:17:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "10",
+                "product": {
+                    "number": "2170",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400302",
+                        "mediumName": "Heemstede-A."
+                    },
+                    {
+                        "uicCode": "8400285",
+                        "mediumName": "Haarlem"
+                    },
+                    {
+                        "uicCode": "8400059",
+                        "mediumName": "Sloterdijk"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Eindhoven Centraal",
+                "name": "NS  1181",
+                "plannedDateTime": "2021-02-17T21:17:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:17:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "2",
+                "product": {
+                    "number": "1181",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400280",
+                        "mediumName": "Den Haag HS"
+                    },
+                    {
+                        "uicCode": "8400170",
+                        "mediumName": "Delft"
+                    },
+                    {
+                        "uicCode": "8400530",
+                        "mediumName": "Rotterdam C."
+                    },
+                    {
+                        "uicCode": "8400131",
+                        "mediumName": "Breda"
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Dordrecht",
+                "name": "NS  5183",
+                "plannedDateTime": "2021-02-17T21:24:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:24:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "3",
+                "product": {
+                    "number": "5183",
+                    "categoryCode": "SPR",
+                    "shortCategoryName": "NS Sprinter",
+                    "longCategoryName": "Sprinter",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "SPR",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400280",
+                        "mediumName": "Den Haag HS"
+                    },
+                    {
+                        "uicCode": "8400170",
+                        "mediumName": "Delft"
+                    },
+                    {
+                        "uicCode": "8400530",
+                        "mediumName": "Rotterdam C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Amersfoort Schothorst",
+                "name": "NS 11781",
+                "plannedDateTime": "2021-02-17T21:25:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:25:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "5",
+                "product": {
+                    "number": "11781",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400258",
+                        "mediumName": "Gouda"
+                    },
+                    {
+                        "uicCode": "8400621",
+                        "mediumName": "Utrecht C."
+                    },
+                    {
+                        "uicCode": "8400055",
+                        "mediumName": "Amersfoort C."
+                    }
+                ],
+                "messages": [],
+                "departureStatus": "INCOMING"
+            },
+            {
+                "direction": "Groningen",
+                "name": "NS   781",
+                "plannedDateTime": "2021-02-17T21:33:00+0100",
+                "plannedTimeZoneOffset": 60,
+                "actualDateTime": "2021-02-17T21:33:00+0100",
+                "actualTimeZoneOffset": 60,
+                "plannedTrack": "10",
+                "product": {
+                    "number": "781",
+                    "categoryCode": "IC",
+                    "shortCategoryName": "NS Intercity",
+                    "longCategoryName": "Intercity",
+                    "operatorCode": "NS",
+                    "operatorName": "NS",
+                    "type": "TRAIN"
+                },
+                "trainCategory": "IC",
+                "cancelled": false,
+                "routeStations": [
+                    {
+                        "uicCode": "8400390",
+                        "mediumName": "Leiden C."
+                    },
+                    {
+                        "uicCode": "8400561",
+                        "mediumName": "Schiphol Airport"
+                    },
+                    {
+                        "uicCode": "8400061",
+                        "mediumName": "Amsterdam Z."
+                    },
+                    {
+                        "uicCode": "8400080",
+                        "mediumName": "Almere C."
+                    }
+                ],
+                "messages": [
+                    {
+                        "message": "Treinstel 4065 rijdt niet verder dan Zwolle",
+                        "style": "INFO"
+                    }
+                ],
+                "departureStatus": "INCOMING"
+            }
+        ]
+    },
+    "links": {
+        "disruptions": {
+            "uri": "/api/v2/disruptions?station=GVC"
+        }
+    },
+    "meta": {
+        "numberOfDisruptions": 1
+    }
+}

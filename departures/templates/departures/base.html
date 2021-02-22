@@ -1,0 +1,22 @@
+{% load static %}
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Train Departures</title>
+  <meta name="description" content="Train Departures">
+  <meta name="author" content="Marcos Bartolome">
+
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+
+</head>
+
+<body>
+  <div id="container">
+      <div id="header"><h1>KPM Test</h1></div>
+      {% block content %}{% endblock %}
+  </div>
+</body>
+</html>
