@@ -1,4 +1,4 @@
-# Test KPM
+# Test KPN
 ## Setup
 
 Clone the repository
